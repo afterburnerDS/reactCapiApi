@@ -9,11 +9,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.18.0",
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.2",
     "chai": "^4.1.2",
     "chai-http": "^3.0.0",
+    "cors": "^2.8.4",
     "express": "^4.16.2",
+    "faker": "^4.1.0",
+    "jsonwebtoken": "^8.2.0",
     "mocha": "^5.0.3",
-    "mongoose": "^5.0.9"
+    "mongoose": "^5.0.9",
+    "morgan": "^1.9.0",
+    "passport": "^0.4.0",
+    "passport-jwt": "^3.0.1",
+    "passport-local": "^1.0.0"
   }
 }
